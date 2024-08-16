@@ -1,0 +1,14 @@
+C:\Users\danto\source\repos\Afectoyafecto\Afectoyafecto\bin\Debug\net8.0\Afectoyafecto.exe
+C:\Users\danto\source\repos\Afectoyafecto\Afectoyafecto\bin\Debug\net8.0\Afectoyafecto.deps.json
+C:\Users\danto\source\repos\Afectoyafecto\Afectoyafecto\bin\Debug\net8.0\Afectoyafecto.runtimeconfig.json
+C:\Users\danto\source\repos\Afectoyafecto\Afectoyafecto\bin\Debug\net8.0\Afectoyafecto.dll
+C:\Users\danto\source\repos\Afectoyafecto\Afectoyafecto\bin\Debug\net8.0\Afectoyafecto.pdb
+C:\Users\danto\source\repos\Afectoyafecto\Afectoyafecto\obj\Debug\net8.0\Afectoyafecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danto\source\repos\Afectoyafecto\Afectoyafecto\obj\Debug\net8.0\Afectoyafecto.AssemblyInfoInputs.cache
+C:\Users\danto\source\repos\Afectoyafecto\Afectoyafecto\obj\Debug\net8.0\Afectoyafecto.AssemblyInfo.cs
+C:\Users\danto\source\repos\Afectoyafecto\Afectoyafecto\obj\Debug\net8.0\Afectoyafecto.csproj.CoreCompileInputs.cache
+C:\Users\danto\source\repos\Afectoyafecto\Afectoyafecto\obj\Debug\net8.0\Afectoyafecto.dll
+C:\Users\danto\source\repos\Afectoyafecto\Afectoyafecto\obj\Debug\net8.0\refint\Afectoyafecto.dll
+C:\Users\danto\source\repos\Afectoyafecto\Afectoyafecto\obj\Debug\net8.0\Afectoyafecto.pdb
+C:\Users\danto\source\repos\Afectoyafecto\Afectoyafecto\obj\Debug\net8.0\Afectoyafecto.genruntimeconfig.cache
+C:\Users\danto\source\repos\Afectoyafecto\Afectoyafecto\obj\Debug\net8.0\ref\Afectoyafecto.dll
